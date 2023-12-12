@@ -130,3 +130,8 @@ transform: translateX(calc(100% - 5px));
     transform: translateX(0);
 }
 /* End Our Work   */
+/* Start Stuff */
+.stuff .discription {
+    max-width: 500px;
+}
+/* End Stuff */
